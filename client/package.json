@@ -1,0 +1,24 @@
+{
+  "name": "scc-assignment-5",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@types/node": "18.15.9",
+    "@types/react": "18.0.29",
+    "@types/react-dom": "18.0.11",
+    "axios": "^1.3.4",
+    "next": "13.2.4",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-drag-drop-files": "^2.3.9",
+    "react-hot-toast": "^2.4.0",
+    "react-query": "^3.39.3",
+    "typescript": "5.0.2"
+  }
+}
